@@ -3,4 +3,5 @@
     <name>monitoring</name>
     <version>1.0.0</version>
     <depends-on name="1commands" dev="false"/>
+    <depends-on name="messenger" dev="false"/>
 </opm-metadata>
